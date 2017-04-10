@@ -1,5 +1,7 @@
 # pico_status
 Python script to display status of the UPS PIco HV3.0A series.<br />
+If you want to comment or report bugs then please visit my thread on Pimodules.<br />
+http://www.forum.pimodules.com/viewtopic.php?f=27&t=2765 <br />
 <br />
 # Compatibility
 UPS HV3.0A PIco Status is ment for firmware version 31 or up.<br />
